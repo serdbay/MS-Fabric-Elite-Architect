@@ -37,5 +37,4 @@ Power BI Dashboard
 | Gold | gold_country_sales | Country & year level aggregations |
 
 ## 👤 Author
-Contact
-Created by @serdbay - feel free to contact me!
+Created by [@serdbay](https://github.com/serdbay) - feel free to contact me!
