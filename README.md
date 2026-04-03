@@ -1,4 +1,4 @@
-# 🏗️ MS Fabric Elite Architect — Medallion Architecture
+# 🏗️ MS Fabric Architect — Medallion Architecture
 
 ## 📌 Project Overview
 This project demonstrates an **enterprise-grade Medallion Architecture** 
