@@ -66,3 +66,14 @@ fact_sales (center)
 - Total Revenue, Total Orders, Avg Revenue per Order
 - Previous Year Revenue, YoY Growth %
 - Running Total Revenue
+
+## ⚙️ Week 2: Pipeline & Automation
+
+### Pipeline Architecture
+- **EliteArchitect_Pipeline** — runs automatically every day at 02:00 AM Istanbul time
+- On Success: star_schema_notebook runs and updates all Star Schema tables
+- On Failure: Error_Notification activity (planned)
+
+### Monitoring
+- Monitored via Fabric Monitor
+- Gantt view shows activity duration and execution timeline
