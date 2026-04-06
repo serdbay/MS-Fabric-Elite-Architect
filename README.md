@@ -77,3 +77,16 @@ fact_sales (center)
 ### Monitoring
 - Monitored via Fabric Monitor
 - Gantt view shows activity duration and execution timeline
+
+## 📊 Week 3: Advanced Analytics
+
+### New Tables
+- **dim_customer_scd2**: SCD Type 1 & 2 implementation
+- **gold_country_ranking**: Country sales ranking with Window Functions
+- **gold_monthly_trend**: Monthly trend with LAG & MoM Change
+
+### New DAX Measures
+- Country Rank, Top 5 Countries Revenue
+
+### Dashboard
+- EliteArchitect_AdvancedDashboard
